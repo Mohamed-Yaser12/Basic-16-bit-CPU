@@ -1,4 +1,4 @@
-# 16-Bit Basic Computer Simulation 💻⚙️
+# 16-Bit Basic CPU Simulation 💻⚙️
 
 A complete Logisim implementation of a basic computer architecture, featuring a custom memory system, Arithmetic Logic Unit (ALU), and a hardwired Control Unit. This project was developed as part of the CSEN/CSIS402: Computer Organization and Systems Programming course.
 
