@@ -2,9 +2,9 @@
 
 # 16-Bit Basic Computer Simulation 💻⚙️
 
-A complete Logisim implementation of a basic computer architecture, featuring a custom memory system, Arithmetic Logic Unit (ALU), and a hardwired Control Unit. This project was developed as part of the CSEN/CSIS402: Computer Organization and Systems Programming course at the German University in Cairo.
+A complete Logisim implementation of a basic computer architecture, featuring a custom memory system, Arithmetic Logic Unit (ALU), and a hardwired Control Unit. This project was developed as part of the CSEN/CSIS402: Computer Organization and Systems Programming course.
 
-(GIF place)
+
 <img width="1280" height="776" alt="SimulationVod-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/1565bc36-214b-4fd0-8951-2b28ebc4a147" />
 
 
