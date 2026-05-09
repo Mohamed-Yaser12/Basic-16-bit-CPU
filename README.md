@@ -67,4 +67,3 @@ The hardwired Control Unit supports the following Instruction Set Architecture (
 * `SC.circ`: The Sequence Counter for timing generation.
 * `Modified Register.circ` / `Modified Counter.circ`: Custom register designs implementing synchronous clears.
 * `Memory Values`: Text file containing the pre-compiled machine code.
-* `RTLs.pptx` & `Project Report.pdf`: Documentation of the boolean expressions and Register Transfer Logic.
