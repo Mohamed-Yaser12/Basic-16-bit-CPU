@@ -1,13 +1,10 @@
-
-
 # 16-Bit Basic Computer Simulation 💻⚙️
 
 A complete Logisim implementation of a basic computer architecture, featuring a custom memory system, Arithmetic Logic Unit (ALU), and a hardwired Control Unit. This project was developed as part of the CSEN/CSIS402: Computer Organization and Systems Programming course.
 
-
 <img width="1280" height="776" alt="SimulationVod-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/1565bc36-214b-4fd0-8951-2b28ebc4a147" />
 
-
+> **Note:** The clock frequency in the demonstration GIF above is intentionally set to **8 Hz**. This slows down the simulation enough to clearly observe the cycle-by-cycle micro-operations and data flow. Running it at standard computer frequencies would cause the execution to finish almost instantly!
 
 ## 📋 Table of Contents
 - [About the Project](#about-the-project)
