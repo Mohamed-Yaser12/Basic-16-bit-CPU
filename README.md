@@ -4,7 +4,8 @@ A complete Logisim implementation of a basic computer architecture, featuring a 
 
 <img width="1280" height="776" alt="SimulationVod-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/1565bc36-214b-4fd0-8951-2b28ebc4a147" />
 
-> **Note:** The clock frequency in the demonstration GIF above is intentionally set to **8 Hz**. This slows down the simulation enough to clearly observe the cycle-by-cycle micro-operations and data flow. Running it at standard computer frequencies would cause the execution to finish almost instantly!
+<p><b>Note:</b> The clock frequency in the demonstration GIF above is intentionally set to <b>8 Hz</b>. This slows down the simulation enough to clearly observe the cycle-by-cycle micro-operations and data flow. Running it at standard computer frequencies would cause the execution to finish almost instantly!</p>
+
 
 ## 📋 Table of Contents
 - [About the Project](#about-the-project)
