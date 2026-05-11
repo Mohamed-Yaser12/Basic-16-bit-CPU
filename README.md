@@ -46,7 +46,7 @@ The hardwired Control Unit supports the following Instruction Set Architecture (
 ## 🚀 Getting Started
 
 ### Prerequisites
-* [Logisim](http://www.cburch.com/logisim/) (Requires Java runtime)
+* [Logisim](https://sourceforge.net/projects/circuit/) (Requires Java runtime)
 
 ### Running the Simulation
 1. Clone the repository to your local machine.
